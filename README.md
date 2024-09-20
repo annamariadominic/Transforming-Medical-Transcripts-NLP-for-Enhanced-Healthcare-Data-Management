@@ -1,0 +1,2 @@
+# Transforming-Medical-Transcripts-NLP-for-Enhanced-Healthcare-Data-Management
+This project converts unstructured EHR data into structured formats using diverse classification models, with T5 playing a key role in transforming transcriptions. The approach improves data categorization, enhances healthcare data management, and facilitates efficient storage, feature identification, and predictive modeling.
